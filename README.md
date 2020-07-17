@@ -1,6 +1,6 @@
 ## Nonlinear finite elements for continuum mechanichs
 
-In this repository are stored MATLAB codes that implement the nonlinear finite elements in [3D](./3D/) and [2D](./2D/) plane stress using the total lagrangian formulation.
+In this repository are stored MATLAB codes that implement the nonlinear finite elements in [3D](./3D/) and [2D](./2D/) plane stress using the total Lagrangian formulation.
 
 <p float="left">
   <img src="./buckling.PNG" height="250" /> 
